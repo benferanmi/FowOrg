@@ -1,4 +1,4 @@
-import profile from "./benresume/home/profile" 
+import Profile from "./benresume/home/profile" 
 
 function App() {
   return (
