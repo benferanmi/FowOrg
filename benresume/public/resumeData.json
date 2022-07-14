@@ -1,0 +1,178 @@
+{
+  "main": {
+    "name": "OPAFUNSO BENJAMIN",
+    "occupation": "Front End Developer",
+    "description": "I am a professional website developer.",
+    "image": "benpic.PNG",
+    "bio": "Multitalented Front end developer with experience in web software industry. Demonstrated excellent skills in HTML, JavaScript and React. True team player with strengths in adaptability and accuracy. Innovative and technically-astute website designer well-versed in analyzing user needs and developing software to precisely meet diverse needs. Demonstrates mastery of multiple programming languages and proactively keeps up with industry trends. Driven to wear many programming hats with expertise in creating everything from new applications to new operating systems. Eager to contribute to team success through hard work, attention to detail and excellent organizational skills. Clear understanding of Task and training in Skill. Motivated to learn, grow and excel in Industry.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "opaferanmi01@gmail.com/ Benferanmiopafunso@gmail.com",
+    "phone": "+234 8133252105",
+    "address": {
+      "street": "(IMADIN)",
+      "city": "(ILESA)",
+      "state": "(OSUN State)",
+      "zip": "(100001)"
+    },
+    "website": "",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "https://web.facebook.com/oluwa.feranmi.184/ ",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/benferanmi",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/classic-feranmi-397b241b2/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "Youtube",
+        "url": "https://youtube.com/channel/UCqjWiNPUuiXDYsSpoYNn_6Q",
+        "className": "fa fa-youtube"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/benferanmi",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "",
+    "education": [
+      {
+        "school": "Federal university of technology akure?",
+        "degree": "Bachelor of Science",
+        "graduated": "Still schooling"
+      }
+    ],
+    "work": [
+      {
+        "company": "Futa",
+        "title": "Front End Developer ",
+        "years": "Dec 2019 - Present",
+        "description": ""
+      },
+      {
+        "company": "Fiverr",
+        "title": "Website designer/ Graphics designer",
+        "years": "Dec 2017 - Present",
+        "description": ""
+      },
+      {
+        "company": "Upwork",
+        "title": "Front end website developer and designer ",
+        "years": "March 2018 - present",
+        "description": ""
+      },
+      {
+        "company": "Prestige team",
+        "title": "Senior website developer and designer ",
+        "years": "july 2020 - present",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "95%"
+      },
+      {
+        "name": "Html",
+        "level": "100%"
+      },
+      {
+        "name": "CSS (tailwind)",
+        "level": "95%"
+      },
+      {
+        "name": "Figma",
+        "level": "100%"
+      },
+      {
+        "name": "PSD TO HTML",
+        "level": "95%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "95%"
+      },
+      {
+        "name": "CSS",
+        "level": "100%"
+      },
+      {
+        "name": "HTML5",
+        "level": "90%"
+      },
+      {
+        "name": "PHP",
+        "level": "70%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "BOOKING AND APPOINTMENT",
+        "category": "ecommerce Clothing website",
+        "image": "slg.PNG",
+        "url": "https://www.Sledgelifecoaching.com"
+      },
+      {
+        "title": "Crypto coin website",
+        "category": "Front End Development #crypto",
+        "image": "",
+        "url": ""
+      },
+      {
+        "title": "ESCORT WEBSITE",
+        "category": "ESCORT - An escort website for men and women",
+        "image": "book.PNG",
+        "url": "https://www.annabelbaily.co.uk"
+      },
+      {
+        "title": "Goonblink",
+        "category": "#music, #fullwebsite",
+        "image": "goonslink.PNG",
+        "url": "https://www.goonslink.biz"
+      },
+      {
+        "title": "Benjamin feranmi resume",
+        "category": "#frontend development #resume",
+        "image": "resume-website.jpg",
+        "url": "https://benresume.vercel.app/"
+      },
+      {
+        "title": "Mamamia",
+        "category": "Wordpress - An escort website for men and women",
+        "image": "mamamia.PNG",
+        "url": "https://www.mamamia.com"
+      },
+      {
+        "title": "Booksusi",
+        "category": "Wordpress - An escort website for men and women",
+        "image": "book.PNG",
+        "url": "https://www.booksusi.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Mr. Mitchell",
+        "user": "He is very fast, Good and Promising. He developed the website Just the way i wanted it. Good and excellent communication skills. Thanks Benjamin"
+      },
+      {
+        "text": "Lookman Adedeji",
+        "user": "Tested and Trusted. At first i was Doubting wether to give my project to him. And Now i am thanking my star i Gave it to him. Give him a trial You wont regret it."
+      }
+    ]
+  }
+}
