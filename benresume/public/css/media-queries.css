@@ -102,9 +102,9 @@
 
    .banner-text{
       position: absolute;
-      top: 10%;
-      left: 20%;
-      right: 20%;
+      top: 30%;
+      left: 0%;
+      right: 0%;
    }
    #nav-wrap {
       font: 12px 'opensans-bold', sans-serif;
@@ -123,15 +123,35 @@
 		position: relative;
       border: none;
       float: right;
-
       font: 0/0 a;
       text-shadow: none;
       color: transparent;
-
       position: relative;
-      top: 0px;
+      top: 15px;
       right: 30px;
    }
+
+   .responsive-headline{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #231557 0%,
+    #44107a 29%,
+    #ff1361 67%,
+    #fff800 100%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  text-fill-color: transparent;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation: textclip 2s linear infinite;
+  display: inline-block;
+      font-size: 190px;
+}
 
 	#nav-wrap > a:before,
    #nav-wrap > a:after {
