@@ -1,5 +1,9 @@
 {
   "dependencies": {
+    "axios": "^0.27.2",
+    "file": "^0.2.2",
+    "js-file-download": "^0.4.12",
+    "saver": "^0.1.1",
     "src": "^1.1.2"
   }
 }

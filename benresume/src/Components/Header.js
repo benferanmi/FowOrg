@@ -36,8 +36,8 @@ class Header extends Component {
          <div className="banner-text">
          <section className='content__section'>
            <div class="content">
-             <h2>Welcome Femito</h2>
-             <h2>Welcome Femito</h2>
+             <h2>Welcome To My Resume</h2>
+             <h2>Welcome To My Resume</h2>
            </div>
          </section>
             <h1 className="responsive-headline text_shadows">I'm {name}.  </h1>
